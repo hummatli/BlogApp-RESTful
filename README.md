@@ -1,6 +1,6 @@
 
 
-<h1 style="text-align: center;"> BlogApp </h1>
+<h1> BlogApp </h1>
 Blog app representing RESTfull services and used Semantic-UI as a front framework
 
 <p align="center">
